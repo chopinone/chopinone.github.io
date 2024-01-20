@@ -4,11 +4,11 @@
   
     
     <entry>
-      <title>如何创建一个私人博客？</title>
-      <link href="/2024/01/21/%E5%A6%82%E4%BD%95%E5%BB%BA%E7%AB%8B%E4%B8%80%E4%B8%AA%E7%A7%81%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
-      <url>/2024/01/21/%E5%A6%82%E4%BD%95%E5%BB%BA%E7%AB%8B%E4%B8%80%E4%B8%AA%E7%A7%81%E4%BA%BA%E5%8D%9A%E5%AE%A2/</url>
+      <title>如何创建一个博客</title>
+      <link href="/2024/01/21/%E5%A6%82%E4%BD%95%E5%88%9B%E5%BB%BA%E4%B8%80%E4%B8%AA%E5%8D%9A%E5%AE%A2%EF%BC%9F/"/>
+      <url>/2024/01/21/%E5%A6%82%E4%BD%95%E5%88%9B%E5%BB%BA%E4%B8%80%E4%B8%AA%E5%8D%9A%E5%AE%A2%EF%BC%9F/</url>
       
-        <content type="html"><![CDATA[<p>##一、技术路线</p><ol><li>一台电脑</li><li>hexo开源博客框架</li><li>github仓库</li><li>一个域名（也可以不用，有自己域名登录更方便）</li><li>hexon可视化编辑器</li></ol>]]></content>
+        <content type="html"><![CDATA[<hr><p>如何创建一个自己的私人博客呢？</p><hr><h1 id="如何创建一个博客？"><a href="#如何创建一个博客？" class="headerlink" title="如何创建一个博客？"></a>如何创建一个博客？</h1><h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>博客，分享知识，沟通交流，产生乐趣，一同进步！</p><h2 id="材料"><a href="#材料" class="headerlink" title="材料"></a>材料</h2><ol><li><p>一台电脑</p></li><li><p>hexo开源博客框架</p></li><li><p>一个域名（可有可无，只是为了登录博客更方便）</p></li><li><p>github账号</p></li><li><p>hexon</p></li></ol><h2 id="方法"><a href="#方法" class="headerlink" title="方法"></a>方法</h2><h3 id="1-一台电脑"><a href="#1-一台电脑" class="headerlink" title="1.一台电脑"></a>1.一台电脑</h3><p>按下开机键，准备好鼠标和键盘。</p><h3 id="2-hexo开源博客框架的安装"><a href="#2-hexo开源博客框架的安装" class="headerlink" title="2.hexo开源博客框架的安装"></a>2.hexo开源博客框架的安装</h3><p>待续 LOADING…</p><h2 id="结果"><a href="#结果" class="headerlink" title="结果"></a>结果</h2><p><img src="/2024/01/21/%E5%A6%82%E4%BD%95%E5%88%9B%E5%BB%BA%E4%B8%80%E4%B8%AA%E5%8D%9A%E5%AE%A2%EF%BC%9F/Users\wansh\AppData\Roaming\marktext\images\2024-01-21-01-05-35-image.png"></p><p><strong>成了！</strong></p><h2 id="结论"><a href="#结论" class="headerlink" title="结论"></a>结论</h2><img src="file:///C:/Users/wansh/AppData/Roaming/marktext/images/2024-01-21-01-08-48-image.png" title alt width="321"><p>不断报错，不断尝试！费劲，但值得！</p>]]></content>
       
       
       <categories>
@@ -25,8 +25,6 @@
             <tag> hexon </tag>
             
             <tag> github </tag>
-            
-            <tag> 域名绑定 </tag>
             
         </tags>
       
