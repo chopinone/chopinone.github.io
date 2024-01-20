@@ -4,13 +4,81 @@
   
     
     <entry>
-      <title>进化树美化</title>
+      <title>大数据进化树构建</title>
+      <link href="/2024/01/21/%E5%A4%A7%E6%95%B0%E6%8D%AE%E8%BF%9B%E5%8C%96%E6%A0%91%E6%9E%84%E5%BB%BA/"/>
+      <url>/2024/01/21/%E5%A4%A7%E6%95%B0%E6%8D%AE%E8%BF%9B%E5%8C%96%E6%A0%91%E6%9E%84%E5%BB%BA/</url>
+      
+        <content type="html"><![CDATA[<h2 id="画进化树的工具有很多，一般就是NJ和ML树-NJ-邻接法树，速度快，但是会丢失一定的准确性。ML-最大似然法树，准确度更高。对于大数据或者精度要求不高的比对，可以使用此法。而对小数据，或者精确度要求较高的，用ML法。"><a href="#画进化树的工具有很多，一般就是NJ和ML树-NJ-邻接法树，速度快，但是会丢失一定的准确性。ML-最大似然法树，准确度更高。对于大数据或者精度要求不高的比对，可以使用此法。而对小数据，或者精确度要求较高的，用ML法。" class="headerlink" title="画进化树的工具有很多，一般就是NJ和ML树, NJ 邻接法树，速度快，但是会丢失一定的准确性。ML 最大似然法树，准确度更高。对于大数据或者精度要求不高的比对，可以使用此法。而对小数据，或者精确度要求较高的，用ML法。"></a>画进化树的工具有很多，一般就是NJ和ML树, NJ 邻接法树，速度快，但是会丢失一定的准确性。ML 最大似然法树，准确度更高。对于大数据或者精度要求不高的比对，可以使用此法。而对小数据，或者精确度要求较高的，用ML法。<br><a href="https://www.freeimg.cn/i/2024/01/21/65ac4abf0d3c8.png"><img src="https://www.freeimg.cn/i/2024/01/21/65ac4abf0d3c8.png" alt="aHR0cHM6Ly9tbWJpei5xcGljLmNuL21tYml6X3BuZy9LQXRSUEJCeWVHNkxLNTY1bzNaTXp0cUM5a3pZN2tqamtPaWFYSXFxUWFGSUJyOUx1NFRWMFlnZ2lhZnZMMVVGemJNNks0d2N2S0lDZXN5Q1JLSU5iWVpBLzY0MA.png"></a></h2><p>ML法构建进化树，对于大数据，iqtree和fasttree是比较常用的，因为快。尤其是fasttree。<br><a href="https://www.freeimg.cn/i/2024/01/21/65ac4abedeb0a.png"><img src="https://www.freeimg.cn/i/2024/01/21/65ac4abedeb0a.png" alt="aHR0cHM6Ly9tbWJpei5xcGljLmNuL21tYml6X3BuZy9LQXRSUEJCeWVHNkxLNTY1bzNaTXp0cUM5a3pZN2tqajc2Z29GVllkMDg1OEUwSFljQ0tDUUJpYXJPckpSeUlTQlI5eVZMOHV6NlYzY2ljcDc5aWF2c1JXdy82NDA.png"></a></p><h1 id="先挖坑，LOADING…"><a href="#先挖坑，LOADING…" class="headerlink" title="先挖坑，LOADING…."></a>先挖坑，LOADING….</h1>]]></content>
+      
+      
+      <categories>
+          
+          <category> 生信工具 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> fasttree </tag>
+            
+            <tag> iqtree </tag>
+            
+            <tag> raxml </tag>
+            
+            <tag> mega </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>simplot序列相似度比对</title>
+      <link href="/2024/01/21/simplot%E5%BA%8F%E5%88%97%E7%9B%B8%E4%BC%BC%E5%BA%A6%E6%AF%94%E5%AF%B9/"/>
+      <url>/2024/01/21/simplot%E5%BA%8F%E5%88%97%E7%9B%B8%E4%BC%BC%E5%BA%A6%E6%AF%94%E5%AF%B9/</url>
+      
+        <content type="html"><![CDATA[<h2 id="SimPlot可以比较一个参考序列和多个参考序列之间的相似性。simplot输出的图告诉你你的参考序列与其他参考序列在不同位置的相似性有多少。这对于理解DNA或蛋白质序列的差异和相似性非常有帮助。"><a href="#SimPlot可以比较一个参考序列和多个参考序列之间的相似性。simplot输出的图告诉你你的参考序列与其他参考序列在不同位置的相似性有多少。这对于理解DNA或蛋白质序列的差异和相似性非常有帮助。" class="headerlink" title="SimPlot可以比较一个参考序列和多个参考序列之间的相似性。simplot输出的图告诉你你的参考序列与其他参考序列在不同位置的相似性有多少。这对于理解DNA或蛋白质序列的差异和相似性非常有帮助。"></a>SimPlot可以比较一个参考序列和多个参考序列之间的相似性。simplot输出的图告诉你你的参考序列与其他参考序列在不同位置的相似性有多少。这对于理解DNA或蛋白质序列的差异和相似性非常有帮助。</h2><p>window值一般默认设置为200，但是遇到序列比较长的，可以加大一点，设置成500-1000bp</p><hr><p>simplot很早之前就停止更新了，不过在github，看到有一个更新版本“simplot++”，功能比simplot还要丰富一些。而且在大数据比对时，后者的运行速度和流畅度都比simplot好！</p><h1 id="未完，待续LOADING…"><a href="#未完，待续LOADING…" class="headerlink" title="未完，待续LOADING…"></a>未完，待续LOADING…</h1>]]></content>
+      
+      
+      <categories>
+          
+          <category> 生信工具 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> simplot </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>进化树美化工具</title>
       <link href="/2024/01/21/%E8%BF%9B%E5%8C%96%E6%A0%91%E7%BE%8E%E5%8C%96/"/>
       <url>/2024/01/21/%E8%BF%9B%E5%8C%96%E6%A0%91%E7%BE%8E%E5%8C%96/</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<p>figtree、mega、iTOL和chiplot。还有很多其他类似的软件和网页，但是可以不用会那么多。</p><ol><li>mega一般用来预览一下，看树怎么样。</li><li>figtree有一定的编辑美化的能力，不过界面英文加上操作复古，还是少了一点人性化。</li><li>iTOL也是网络上推荐得比较多的，树的展示以及美化自由度比较高。</li><li>chiplot网站功能非常全，有很多生信图可以做。比较好上手，且效果也不错。简单了解他的数据处理方式后就可上手了。</li></ol><h1 id="待续，LOADING……"><a href="#待续，LOADING……" class="headerlink" title="待续，LOADING……"></a>待续，LOADING……</h1>]]></content>
       
       
+      
+        <tags>
+            
+            <tag> mega </tag>
+            
+            <tag> figtree </tag>
+            
+            <tag> chiplot </tag>
+            
+            <tag> itol </tag>
+            
+        </tags>
       
     </entry>
     
