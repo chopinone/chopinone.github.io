@@ -4,11 +4,11 @@
   
     
     <entry>
-      <title>如何创建一个博客</title>
+      <title>如何创建一个博客?</title>
       <link href="/2024/01/21/%E5%A6%82%E4%BD%95%E5%88%9B%E5%BB%BA%E4%B8%80%E4%B8%AA%E5%8D%9A%E5%AE%A2%EF%BC%9F/"/>
       <url>/2024/01/21/%E5%A6%82%E4%BD%95%E5%88%9B%E5%BB%BA%E4%B8%80%E4%B8%AA%E5%8D%9A%E5%AE%A2%EF%BC%9F/</url>
       
-        <content type="html"><![CDATA[<hr><p>如何创建一个自己的私人博客呢？</p><hr><h1 id="如何创建一个博客？"><a href="#如何创建一个博客？" class="headerlink" title="如何创建一个博客？"></a>如何创建一个博客？</h1><h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>博客，分享知识，沟通交流，产生乐趣，一同进步！</p><h2 id="材料"><a href="#材料" class="headerlink" title="材料"></a>材料</h2><ol><li><p>一台电脑</p></li><li><p>hexo开源博客框架</p></li><li><p>一个域名（可有可无，只是为了登录博客更方便）</p></li><li><p>github账号</p></li><li><p>hexon</p></li></ol><h2 id="方法"><a href="#方法" class="headerlink" title="方法"></a>方法</h2><h3 id="1-一台电脑"><a href="#1-一台电脑" class="headerlink" title="1.一台电脑"></a>1.一台电脑</h3><p>按下开机键，准备好鼠标和键盘。</p><h3 id="2-hexo开源博客框架的安装"><a href="#2-hexo开源博客框架的安装" class="headerlink" title="2.hexo开源博客框架的安装"></a>2.hexo开源博客框架的安装</h3><p>待续 LOADING…</p><h2 id="结果"><a href="#结果" class="headerlink" title="结果"></a>结果</h2><p><img src="/2024/01/21/%E5%A6%82%E4%BD%95%E5%88%9B%E5%BB%BA%E4%B8%80%E4%B8%AA%E5%8D%9A%E5%AE%A2%EF%BC%9F/Users\wansh\AppData\Roaming\marktext\images\2024-01-21-01-05-35-image.png"></p><p><strong>成了！</strong></p><h2 id="结论"><a href="#结论" class="headerlink" title="结论"></a>结论</h2><img src="file:///C:/Users/wansh/AppData/Roaming/marktext/images/2024-01-21-01-08-48-image.png" title alt width="321"><p>不断报错，不断尝试！费劲，但值得！</p>]]></content>
+        <content type="html"><![CDATA[<h1 id="如何创建一个博客？"><a href="#如何创建一个博客？" class="headerlink" title="如何创建一个博客？"></a>如何创建一个博客？</h1><h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>博客，分享知识，沟通交流，产生乐趣，一同进步！</p><h2 id="材料"><a href="#材料" class="headerlink" title="材料"></a>材料</h2><ol><li><p>一台电脑</p></li><li><p>hexo开源博客框架</p></li><li><p>一个域名（可有可无，只是为了登录博客更方便）</p></li><li><p>github账号</p></li><li><p>hexon</p></li></ol><h2 id="方法"><a href="#方法" class="headerlink" title="方法"></a>方法</h2><h3 id="1-一台电脑"><a href="#1-一台电脑" class="headerlink" title="1.一台电脑"></a>1.一台电脑</h3><p>按下开机键，准备好鼠标和键盘。</p><h3 id="2-hexo开源博客框架的安装"><a href="#2-hexo开源博客框架的安装" class="headerlink" title="2.hexo开源博客框架的安装"></a>2.hexo开源博客框架的安装</h3><p>待续 LOADING…</p><h2 id="结果"><a href="#结果" class="headerlink" title="结果"></a>结果</h2><p><img src="/2024/01/21/%E5%A6%82%E4%BD%95%E5%88%9B%E5%BB%BA%E4%B8%80%E4%B8%AA%E5%8D%9A%E5%AE%A2%EF%BC%9F/image.png" alt="我的博客"><br><strong>成了！</strong></p><h2 id="结论"><a href="#结论" class="headerlink" title="结论"></a>结论</h2><p><img src="/2024/01/21/%E5%A6%82%E4%BD%95%E5%88%9B%E5%BB%BA%E4%B8%80%E4%B8%AA%E5%8D%9A%E5%AE%A2%EF%BC%9F/image-1.png" alt="Alt text"></p><p>不断报错，不断尝试！费劲，但值得！</p>]]></content>
       
       
       <categories>
@@ -27,19 +27,6 @@
             <tag> github </tag>
             
         </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Hello World</title>
-      <link href="/2024/01/20/hello-world/"/>
-      <url>/2024/01/20/hello-world/</url>
-      
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
-      
-      
       
     </entry>
     
