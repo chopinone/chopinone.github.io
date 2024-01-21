@@ -20,13 +20,13 @@
       
         <tags>
             
-            <tag> mega </tag>
-            
             <tag> fasttree </tag>
             
             <tag> iqtree </tag>
             
             <tag> raxml </tag>
+            
+            <tag> mega </tag>
             
         </tags>
       
@@ -70,11 +70,11 @@
       
         <tags>
             
+            <tag> mega </tag>
+            
             <tag> figtree </tag>
             
             <tag> chiplot </tag>
-            
-            <tag> mega </tag>
             
             <tag> itol </tag>
             
